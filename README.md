@@ -1,4 +1,4 @@
-etherface
+Etherface
 ==============
 
-Node.js server interfacing with various ethereum clients.
+Node.js server interfacing with Ethereum. http://ether.fund/tool/etherface
